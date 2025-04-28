@@ -22,6 +22,8 @@
 - Visualize your personal fitness metrics with Grafana
 - Simple setup using Google Takeout exports (using the Fitbit API to import historic data is quite impractical due to the rate-limitation thay have in place)
 
+![localhost_3000_d_cek72djonbta8b_fitflux_orgId=1 from=2019-12-24T23_00_00 000Z to=2025-05-11T16_57_17 000Z timezone=browser](https://github.com/user-attachments/assets/04128853-baf9-4645-8f51-e6d1096c2158)
+
 ---
 
 ## Prerequisites
