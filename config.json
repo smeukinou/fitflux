@@ -1,0 +1,8 @@
+{
+    "devicename": "Versa 2",
+    "dbname": "FitFlux",
+    "dbhost": "localhost",
+    "dbport": 8086,
+    "dbuser": "",
+    "dbpassword": ""    
+}

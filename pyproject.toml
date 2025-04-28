@@ -1,0 +1,10 @@
+[project]
+name = "fitflux"
+version = "0.1.0"
+description = "Fitbit data to InfluxDB importer. Grafana Dashboard provided"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "influxdb>=5.3.2",
+    "pandas>=2.2.3",
+]
