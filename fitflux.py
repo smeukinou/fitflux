@@ -55,11 +55,6 @@ def read_config(config_file):
     except json.JSONDecodeError:
         raise ValueError(f"The configuration file {config_file} is not a valid JSON.")
 
-# Example usage:
-# config = read_config("config.json")
-# print(config)
-
-# Load configuration
 config = read_config("config.json")
 
 # Initialize InfluxDB client using the configuration

@@ -128,5 +128,5 @@ Before you begin, ensure you have:
   - Check that your InfluxDB instance is reachable.
 
 ## Credits
-Heavily inspired from https://github.com/arpanghosh8453/fitbit-grafana, but he use of the **slow** FitBit API is a deal breaker to me.
+Heavily inspired from https://github.com/arpanghosh8453/fitbit-grafana, but its use of the **slow** FitBit API is a deal breaker to me.
 
